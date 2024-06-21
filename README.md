@@ -23,10 +23,12 @@ Machine learning algorithms used in this project include:
 ### Output Images
 
 **Prediction Example**: Example of a prediction made by the model.
-   ![Output 1](images\output1.png)
-   ![Output 2](images\output2.png)
-   ![Output 3](images\output3.png)
-   ![Output4](images\output4.png)
+   
+   
+   ![Output 1](images/output1.png)
+   ![Output 2](images/output2.png)
+   ![Output 3](images/output3.png)
+   ![Output4](images/output4.png)
 
 ## How to Use
 
