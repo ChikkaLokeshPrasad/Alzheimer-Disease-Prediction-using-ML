@@ -23,10 +23,10 @@ Machine learning algorithms used in this project include:
 ### Output Images
 
 **Prediction Example**: Example of a prediction made by the model.
-   ![Confusion Matrix](images\output1.png)
-   ![ROC Curve](images\output2.png)
-   ![Feature Importance](images\output3.png)
-   ![Prediction Example](images\output4.png)
+   ![Output 1](images\output1.png)
+   ![Output 2](images\output2.png)
+   ![Output 3](images\output3.png)
+   ![Output4](images\output4.png)
 
 ## How to Use
 
